@@ -1,2 +1,3 @@
-# nicksouligne.github.io
-Hosting my CV
+#CV
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
